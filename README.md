@@ -5,4 +5,4 @@
 
 **$ pip install PySimpleGUI**
 
-** python master.py **
+**python master.py**
