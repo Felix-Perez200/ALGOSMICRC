@@ -6,4 +6,6 @@
 
 **$ pip install PySimpleGUI**
 
+**$ pip install openpyxl**
+
 **python master.py**
